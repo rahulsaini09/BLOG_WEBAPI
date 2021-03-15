@@ -1,0 +1,13 @@
+E:\PathTraining\Dapper1\BLOG\BLOG\bin\Release\netcoreapp2.1\BLOG.deps.json
+E:\PathTraining\Dapper1\BLOG\BLOG\bin\Release\netcoreapp2.1\BLOG.runtimeconfig.json
+E:\PathTraining\Dapper1\BLOG\BLOG\bin\Release\netcoreapp2.1\BLOG.runtimeconfig.dev.json
+E:\PathTraining\Dapper1\BLOG\BLOG\bin\Release\netcoreapp2.1\BLOG.dll
+E:\PathTraining\Dapper1\BLOG\BLOG\bin\Release\netcoreapp2.1\BLOG.pdb
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.csproj.CoreCompileInputs.cache
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.RazorAssemblyInfo.cache
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.RazorAssemblyInfo.cs
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.AssemblyInfoInputs.cache
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.AssemblyInfo.cs
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.RazorTargetAssemblyInfo.cache
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.dll
+E:\PathTraining\Dapper1\BLOG\BLOG\obj\Release\netcoreapp2.1\BLOG.pdb
